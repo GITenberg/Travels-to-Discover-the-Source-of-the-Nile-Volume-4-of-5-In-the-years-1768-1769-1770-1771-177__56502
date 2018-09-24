@@ -1,0 +1,30 @@
+_repo: Travels-to-Discover-the-Source-of-the-Nile-Volume-4-of-5-In-the-years-1768-1769-1770-1771-177__56502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bruce, James
+    birthdate: 1730
+    deathdate: 1794
+    gutenberg_agent_id: '47766'
+    url: http://www.gutenberg.org/2009/agents/47766
+    wikipedia: https://en.wikipedia.org/wiki/James_Bruce
+description: ''
+gutenberg_issued: '2018-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Description and travel'
+- !lcsh 'Ethiopia -- History'
+- !lcsh 'Ethiopia -- Description and travel'
+- !lcc 'DT'
+- !lcsh 'Natural history -- Ethiopia'
+- !lcsh 'Nile River'
+- GITenberg
+title: "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years\
+  \ 1768, 1769, 1770, 1771, 1772 and 1773"
+url: http://www.gutenberg.org/ebooks/56502
